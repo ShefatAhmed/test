@@ -1,0 +1,5 @@
+{{#user}}
+Name: Md Shefat Ahmed
+Skills: HTML, CSS, JS, ReactJS, MongoDB, node.js, Tailwind
+Email: shefata69@gmail.com
+{{/user}}
